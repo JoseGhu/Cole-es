@@ -1,2 +1,2 @@
-# Cole-es
+# Colecoes
 Métodos para coleções em C#
